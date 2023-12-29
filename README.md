@@ -1,0 +1,2 @@
+
+"EduTrack: Academic Enrollment Manager" is a versatile bash program designed to streamline and enhance the management of student enrollments in the Department of Computer Science and Mathematics. This innovative tool specifically caters to the diverse academic majors offered by the department, including Bioinformatics, Computer Sciences, and Mathematics. I developed it as my midterm project for my scripting course.
