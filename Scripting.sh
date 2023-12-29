@@ -149,7 +149,7 @@ show_help() {
 # The user is presented with a dialog box explaining the purpose of the program and is prompted to click the "Next" button to proceed
 # The dialog box has a title, a message, and an "OK" button labeled "Next"
 # The dialog box size is set to 10 lines by 60 columns
-whiptail --title "Welcome!" --msgbox "Welcome to the Academic Assistant Program!\n\nThis program will assist you in managing the students who are currently enrolled in the different majors offered by the Department of Computer Science and Mathematics.\n\nClick Next to continue." 15 65 --ok-button "Next"
+whiptail --title "Welcome!" --msgbox "Welcome to Edutrack: Academic Assistant Program!\n\nThis program will assist you in managing the students who are currently enrolled in the different majors offered by the Department of Computer Science and Mathematics.\n\nClick Next to continue." 15 65 --ok-button "Next"
 
 
 # Loop until the user chooses to exit
